@@ -15,4 +15,7 @@ A condition de :
 - ne pas revendre la machine ;
 - mentionner la présente licence ;
 - reverser les modifications éventuelles à ce dépôt, dans une branche que COMUA a la liberté d'intégrer à la branche principale.
+
+# Prérequis
+installation de [Freecad](https://www.freecad.org/) ainsi que les plugin assembly3, assembly4 et sheetmetal. 
   
